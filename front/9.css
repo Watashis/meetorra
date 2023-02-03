@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+}
+.content {
+    width: 90vw;
+    margin: 2rem auto;
+    position: relative;
+}
+.item {
+    width: fit-content;
+    margin: 0 auto;
+}

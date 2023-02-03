@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+
+.content {
+    width: fit-content;
+    margin: 0 auto;
+    margin-top: 30vh;
+    display: flex;
+}
+
+.content>div{
+    padding: 1rem;
+}
+.get {
+    border-right: 1px solid;
+}
+.check>span{
+    color:red;
+}

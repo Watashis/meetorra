@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+}
+
+.container {
+    width: 200px;
+    height: 300px;
+    border: 1px solid #b7b7b7;
+    box-shadow: 2px 6px 5px 0px #00000069;
+}
+
+.center {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+}
+
+img {
+    max-width: 80%;
+    max-height: 80%;
+}
